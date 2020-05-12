@@ -1,6 +1,6 @@
 # votline
 
-Votline AKA Vote Online consists of 4 Provencial servers Punjab, Sindh, KPK and Balochistan, with each server divided in 2 sub-servers called Part Servers (representing lower and upper parts of province) and one Federal server that connects to all provincial servers. For information sharing between servers and client-server Socket Programming is used with TCP protocol.
+Votline AKA Vote Online consists of 4 Provencial servers Punjab, Sindh, KPK and Balochistan, with each server divided in 2 sub-servers called Part Servers (representing lower and upper parts of province) and one Federal server that connects to all provincial servers. For information sharing between servers and client-server Socket Programming is used with TCP protocol. And Vote Data is saved Json Format.
 
 The structure of application is as follows:
 
